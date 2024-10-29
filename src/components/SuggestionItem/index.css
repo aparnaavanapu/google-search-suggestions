@@ -1,0 +1,17 @@
+.suggestion{
+    color:#475569;
+    font-family:"Roboto";
+    font-size:18px;
+}
+.arrow-img{
+    width:30px;
+    height:30px;
+}
+.list-item{
+    list-style-type:none;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:10px;
+}
+
